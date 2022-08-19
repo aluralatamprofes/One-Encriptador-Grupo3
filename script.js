@@ -35,12 +35,11 @@ function encriptar(stringEncriptada) {
 function btnDesencriptar() {
     const textoEncriptado = desencriptar(inputTexto.value)
     mensaje.value = textoEncriptado
-    mensaje.style.backgroundImage="none"
     inputTexto.value = ""  
 }
 
 function desencriptar(stringDesencriptada) {
-    let matrizCodigo = [["a", "ai"], ["e", "enter"], ["i", "imes"], ["o","ober"], ["u","ufat"]];
+    let matrizCodigo = [ ["e", "enter"], ["i", "imes"], ["a", "ai"], ["o","ober"], ["u","ufat"]];
     stringDesencriptada = stringDesencriptada.toLowerCase();
 
     for(let i=0; i < matrizCodigo.length; i++) {
