@@ -12,8 +12,9 @@
 
 ## ¿Cómo usar este repositorio?
 ---
+**Primero entendamos qué son las Branchs:** En la traducción literal, significa "rama" como en un árbol y en el mundo de la programación tiene el mismo significado, una Branch es una rama/versión de su proyecto. Aquí ofrecemos más de una resolución y cada una estará en su propia rama. Tendremos el mismo código realizado en vivo, de forma más sencilla y didáctica y otra solución más compleja.
 
-**Primero vamos a entender cómo ver las ramas de Github.** Haciendo clic en la parte superior izquierda del repositorio puedes ver todas las "Branchs" del proyecto. En cada nueva Branch/Rama, es posible tener una versión diferente del código y en este caso tendremos 3: 
+**Ahora entendamos cómo ver las ramas de Github.** Haciendo clic en la parte superior izquierda del repositorio puedes ver todas las "Branchs" del proyecto. En cada nueva Branch/Rama, es posible tener una versión diferente del código y en este caso tendremos 3: 
 
      - main: que contiene las instrucciones;
      - solucion-completo: que contiene una de las posibles soluciones al desafío;
